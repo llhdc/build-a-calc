@@ -1,0 +1,41 @@
+#container {
+  /*display: flex;*/
+  height: 250px;
+  width: 250px;
+}
+#display {
+  background-color: #61B34F;
+  width: 152px;
+  height: 48px;
+}
+
+fieldset {
+  border: none;
+}
+
+button {
+  background-color: #61B34F;
+  border: none;
+  flex-basis: 22%;
+  text-decoration: none;
+  width:50px;
+  height:50px;
+  margin: 1px 0 0 -3px;
+  padding: 0;
+  color: white;
+  font-size: 25px;
+  font-weight: 100;
+
+}
+
+input {
+  border: none;
+  color: white;
+  height:50px;
+  width:50px;
+  margin: 1px 0 0 -3px;
+  background-color: #61B34F;
+  text-align: center;
+  font-size: 25px;
+  font-weight: 100;
+}
